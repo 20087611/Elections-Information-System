@@ -1,0 +1,32 @@
+<object-stream>
+  <sample.MyList>
+    <head>
+      <next>
+        <next>
+          <contents class="sample.Politician">
+            <fullName>Micheál Martin</fullName>
+            <dateOfBirth>1926</dateOfBirth>
+            <politicalParty>Fianna Fáil</politicalParty>
+            <homeCounty>Waterford</homeCounty>
+            <image>http://368521570729454624.weebly.com/uploads/1/3/6/3/13635053/112349.jpg</image>
+          </contents>
+        </next>
+        <contents class="sample.Politician">
+          <fullName>Mary Lou McDonald</fullName>
+          <dateOfBirth>1945</dateOfBirth>
+          <politicalParty>Sinn Féin</politicalParty>
+          <homeCounty>Cork</homeCounty>
+          <image>http://p3.pstatp.com/large/5b000001fcb4f0416b16</image>
+        </contents>
+      </next>
+      <contents class="sample.Politician">
+        <fullName>Leo Varadkar</fullName>
+        <dateOfBirth>1966</dateOfBirth>
+        <politicalParty>Fine Gael</politicalParty>
+        <homeCounty>Dobulin</homeCounty>
+        <image>http://p1.pstatp.com/large/pgc-image/15392498171041391191553</image>
+      </contents>
+    </head>
+    <numElements>3</numElements>
+  </sample.MyList>
+</object-stream>

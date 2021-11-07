@@ -1,0 +1,60 @@
+<object-stream>
+  <sample.MyList>
+    <head>
+      <next>
+        <next>
+          <next>
+            <next>
+              <contents class="sample.Election">
+                <electionType>q</electionType>
+                <countyLocation>wateroford</countyLocation>
+                <yearOfElection>1234</yearOfElection>
+                <numberOfSeats>12</numberOfSeats>
+                <candidateList>
+                  <numElements>0</numElements>
+                </candidateList>
+              </contents>
+            </next>
+            <contents class="sample.Election">
+              <electionType>qqqq</electionType>
+              <countyLocation>wateroford</countyLocation>
+              <yearOfElection>1234</yearOfElection>
+              <numberOfSeats>12</numberOfSeats>
+              <candidateList>
+                <numElements>0</numElements>
+              </candidateList>
+            </contents>
+          </next>
+          <contents class="sample.Election">
+            <electionType>ttttt</electionType>
+            <countyLocation>dobulin</countyLocation>
+            <yearOfElection>1234</yearOfElection>
+            <numberOfSeats>12</numberOfSeats>
+            <candidateList>
+              <numElements>0</numElements>
+            </candidateList>
+          </contents>
+        </next>
+        <contents class="sample.Election">
+          <electionType>ttttt</electionType>
+          <countyLocation>cork</countyLocation>
+          <yearOfElection>1456</yearOfElection>
+          <numberOfSeats>12</numberOfSeats>
+          <candidateList>
+            <numElements>0</numElements>
+          </candidateList>
+        </contents>
+      </next>
+      <contents class="sample.Election">
+        <electionType>kkkk</electionType>
+        <countyLocation>cork</countyLocation>
+        <yearOfElection>1456</yearOfElection>
+        <numberOfSeats>125</numberOfSeats>
+        <candidateList>
+          <numElements>0</numElements>
+        </candidateList>
+      </contents>
+    </head>
+    <numElements>5</numElements>
+  </sample.MyList>
+</object-stream>
